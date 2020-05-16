@@ -1,0 +1,8 @@
+How it works
+Qredo is a layer-2 network for delivery and payment of digital assets, secured using patent-pending software, FIPS validated and Common Criteria certified hardware.
+
+Our network is deployed on hardware hardened infrastructure hosted in Tier 4 data centres in financial capitals globally: New York, London, Chicago, Singapore, Hong Kong and Tokyo.
+
+The infrastructure accelerates any blockchain to achieve near instant digital asset delivery without counterparty risk.
+
+
